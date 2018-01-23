@@ -3,8 +3,11 @@ Sudoku Solver
 
 A c++ program that solves a sudoku puzzle.
 
+![img.png](img.png)
+
 Usage
 -----
+In MhcrnlSudoku is Code:Blocks project.
 
 If input is from a file,
 
